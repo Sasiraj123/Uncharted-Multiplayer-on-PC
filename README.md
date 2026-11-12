@@ -100,12 +100,3 @@ Jouez en ligne pendant l'événement et débloquez **Sam Drake (U4)** + l'**ARX-
 - **Nouveau :** des persos et des fusils d'Uncharted 4, débloqués par des événements.
 - Des correctifs d'image (shaders et décors) faits pour ce projet, et notre propre serveur de salon.
 
----
-
-## 📜 Credits · Crédits · License
-
-- **Uncharted Multiplayer:** Sasi_Slk, 2026.
-- The engine comes from **gow3_pc** (FelipePrado0) and the video core of **shadPS4**, adapted to Uncharted by **BilalReloaded** ([Uncharted-The-Nathan-Drake-Collection-PC-port](https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port)).
-- Other code and libraries: see `licenses/THIRD-PARTY.txt` in the download.
-- The code is under the **GNU GPL v2 or later** (`LICENSE.txt`). The sources of each version are attached to its release (`Uncharted-Multiplayer-source.zip`).
-- *Uncharted* is a trademark of Sony Interactive Entertainment. **This is a fan project, not affiliated with Sony Interactive Entertainment or Naughty Dog.**
