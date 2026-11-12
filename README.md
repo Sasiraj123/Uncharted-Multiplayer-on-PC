@@ -56,6 +56,7 @@ Play online during the event and unlock **Sam Drake (U4)** + the **ARX-160, SIG 
 2. Run **`Uncharted Multiplayer.exe`**.
 3. Show it your game folder, then pick your player name (it is yours for good: your progress is saved with it).
 4. The first launch downloads the multiplayer data (about 3 GB, checked file by file).
+   **The launcher updates itself**: each time you open it, it installs the latest version (your name and settings are kept).
 5. **Play Online** — and come say hi on **[Discord](https://discord.gg/f24UDZ7aug)**.
 
 ### ✨ What's in it
@@ -88,6 +89,7 @@ Jouez en ligne pendant l'événement et débloquez **Sam Drake (U4)** + l'**ARX-
 2. Lancez **`Uncharted Multiplayer.exe`**.
 3. Montrez-lui le dossier du jeu, puis choisissez votre pseudo (il est à vous pour toujours : votre progression est enregistrée avec lui).
 4. Le premier lancement télécharge les données du multi (environ 3 Go, vérifiées morceau par morceau).
+   **Le lanceur se met à jour tout seul** : à chaque ouverture, il installe la dernière version (pseudo et réglages gardés).
 5. **Jouer en ligne** — et passez dire bonjour sur **[Discord](https://discord.gg/f24UDZ7aug)**.
 
 ### ✨ Ce qu'il y a dedans
